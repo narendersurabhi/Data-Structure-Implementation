@@ -1,7 +1,5 @@
 // Author: Narender Surabhi
 
-package datastructures;
-
 import java.util.Objects;
 
 public class HashMap2<K, V> {
